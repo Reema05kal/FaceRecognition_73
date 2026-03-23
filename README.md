@@ -203,7 +203,7 @@ pip install opencv-python numpy
 \### Step 1: Capture Dataset
 
 
-## Update 1: Dataset collection completed
+
 ```
 
 python face\_dataset.py

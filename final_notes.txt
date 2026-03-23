@@ -1,0 +1,6 @@
+Final Project Notes:
+
+- Face dataset collected for 3 users
+- Model trained using LBPH algorithm
+- Real-time face recognition implemented
+- Tested with webcam successfully

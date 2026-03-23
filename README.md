@@ -202,7 +202,7 @@ pip install opencv-python numpy
 
 \### Step 1: Capture Dataset
 
-
+## Update 1: Dataset collection completed
 
 ```
 
@@ -324,5 +324,8 @@ The system successfully detects and recognizes faces in real time with good accu
 
 Reema
 
-
+## Improvements
+- Added multiple users (Reema, Thensin, Shana)
+- Improved recognition accuracy
+- Optimized real-time performance
 
